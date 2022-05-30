@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 110%;
+    background: url(images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}

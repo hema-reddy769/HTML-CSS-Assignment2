@@ -10,14 +10,13 @@
     height: 100vh;
 }
 .pic{
-    background: url(images/pic.jpg);
+    background: url(images/photo.jpg);
     background-position: left;
     background-size: 80vh;
     width: 7cm;
-    height: 90vh;
-    top: -20px;
-    margin-left:-10px;
-    margin-top: -5px;
-    margin-bottom:30px;
-    
+    height: 85vh;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    margin-left:-12px;
+    margin-top: 20px;
 }

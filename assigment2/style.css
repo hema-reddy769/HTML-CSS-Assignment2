@@ -11,12 +11,10 @@
 }
 .pic{
     background: url(images/photo.jpg);
-    background-position: left;
-    background-size: 80vh;
-    width: 7cm;
-    height: 85vh;
+    background-position: 12px;
+    background-size: 70vh;
+    width: 8cm;
+    height: 10cm;
     background-repeat: no-repeat;
-    margin-bottom: 10px;
-    margin-left:-12px;
-    margin-top: 20px;
+    
 }

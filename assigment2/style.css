@@ -31,7 +31,7 @@
 }
 .content .par{
     padding-right: 30px;
-    padding-bottom: 25px;
+    padding-bottom: 50px;
     font-family: Arial;
     letter-spacing: 1.2px;
     line-height: 30px;
@@ -41,4 +41,21 @@
     font-size: 40px;
     padding-left: 20px;
     letter-spacing: 2px;
-}   
+} 
+.content span{
+    color: #ff7200;
+    font-size: 38px;
+} 
+.content .cn{
+    width: 200px;
+    height: 30px;
+    border: 2px solid #ff7200;
+    border-radius: 20px;
+    background: black;
+    
+}
+.content .cn a{
+    color: #fff;
+}
+
+    

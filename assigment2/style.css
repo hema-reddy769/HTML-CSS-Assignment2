@@ -47,15 +47,30 @@
     font-size: 38px;
 } 
 .content .cn{
-    width: 200px;
-    height: 30px;
+    width: 240px;
+    height: 50px;
     border: 2px solid #ff7200;
     border-radius: 20px;
     background: black;
+    margin-top: 5vh;
+    
     
 }
-.content .cn a{
+.content .cn {
     color: #fff;
+}
+
+.content .orange-color{
+    color: #ff7200;
+    
+}
+.navbar{
+    height: 100%;
+    width: 100%;
+    background: rgb(112, 104, 104);
+    position: right;
+    margin-left: 1770px;
+    margin-top: -1025px
 }
 
     

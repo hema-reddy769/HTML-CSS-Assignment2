@@ -66,11 +66,57 @@
 }
 .navbar{
     height: 100%;
-    width: 100%;
-    background: rgb(112, 104, 104);
+    width: 3%;
+    background: rgb(120, 113, 113);
     position: right;
-    margin-left: 1770px;
+    margin-left: 1850px;
     margin-top: -1025px
 }
+.fa-lightbulb{
+    color: white;
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 70px;
+    width: 60px;
+    font-size: 30px;
+    
+
+}
+.fa-house-chimney{
+    color: white;
+    margin-left: 18px;
+    margin-top: 250px;
+    width: 40px;
+    height: 20px;
+    font-size: 25px;
+}
+.fa-user{
+    color: white;
+    margin-left: 20px;
+    margin-top: 60px;
+    font-size: 25px;
+}
+.fa-briefcase{
+    color: white;
+    margin-left: 20px;
+    margin-top: 60px;
+    font-size: 25px;
+}
+.fa-envelope-open{
+    color: white;
+    margin-left: 20px;
+    margin-top: 60px;
+    font-size: 25px;
+}
+.fa-comments{
+    color: white;
+    margin-left: 20px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+.navbar :hover{
+    color: #ff7200;
+}
+
 
     

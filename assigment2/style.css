@@ -67,7 +67,7 @@
 .navbar{
     height: 100%;
     width: 3%;
-    background: rgb(120, 113, 113);
+    background: rgb(14, 5, 5);
     position: right;
     margin-left: 1850px;
     margin-top: -1025px
@@ -112,7 +112,8 @@
     color: white;
     margin-left: 20px;
     margin-top: 60px;
-    font-size: 20px;
+    font-size: 25px;
+    
 }
 .navbar :hover{
     color: #ff7200;

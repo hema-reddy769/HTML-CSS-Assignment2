@@ -13,8 +13,32 @@
     background: url(images/photo.jpg);
     background-position: 12px;
     background-size: 70vh;
-    width: 8cm;
-    height: 10cm;
+    width: 16cm;
+    height: 25cm;
     background-repeat: no-repeat;
-    
+
 }
+.content{
+    width: 900px;
+    height: 17cm;
+    margin: 35px;
+    color: #fff;
+    position: center;
+    margin-left: 900px;
+    margin-top: -600px;
+    margin-right: 70px;
+
+}
+.content .par{
+    padding-right: 30px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    padding-left: 20px;
+    letter-spacing: 2px;
+}   
